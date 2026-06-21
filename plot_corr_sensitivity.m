@@ -1,4 +1,4 @@
-%% Visualization of correlation sensitivity maps and sigmoid fit example
+%% Produces Figure 2a-b of the paper
 
 addpath(genpath('functions'));
 

@@ -1,3 +1,4 @@
+%% Produces Figure 4d of the paper
 % Loads correlation and p-value data, computes perceived time via
 % find_temp_bias, and plots perceived vs real time-to-saccade onset.
 

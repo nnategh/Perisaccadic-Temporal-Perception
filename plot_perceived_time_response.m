@@ -1,4 +1,4 @@
-%% Visualization of perceived time 
+%% Produces Figure 5c, Figure 6g, Figure 7g of the paper 
 
 addpath(genpath('functions'));
 

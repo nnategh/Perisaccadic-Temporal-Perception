@@ -1,4 +1,4 @@
-%% Visualization of perceived time to saccade (full vs reduced models) 
+%% Produces Figure 4e, Figure 6d, Figure 7d of the paper
 
 addpath(genpath('functions'));
 

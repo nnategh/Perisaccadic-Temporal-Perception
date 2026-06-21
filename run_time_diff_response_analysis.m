@@ -1,3 +1,4 @@
+%% Produces Figure 3b,d of the paper
 clear;
 set(0, 'DefaultFigureWindowStyle', 'docked');
 

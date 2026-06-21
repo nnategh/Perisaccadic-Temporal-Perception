@@ -1,4 +1,4 @@
-%% Visualization of temporal sensitivity (full vs reduced models)
+%% Produces Figure 2d,f, Figure 6e-f, Figure 7e-f of the paper 
 
 addpath(genpath('functions'));
 

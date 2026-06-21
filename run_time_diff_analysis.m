@@ -1,4 +1,4 @@
-%% visualization of model-based time difference 
+%% Produces Figure 2c,e of the paper 
 addpath(genpath('functions'));
 
 DATA_FILE      = 'Data\corr_sensitivity.mat';   

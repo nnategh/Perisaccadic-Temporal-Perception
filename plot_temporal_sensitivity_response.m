@@ -1,4 +1,4 @@
-%% Visualization of temporal sensitivity for response data 
+%% Produces Figure 3c,e, Figure 6h-i, Figure 7h-i of the paper 
 
 addpath(genpath('functions'));
 
