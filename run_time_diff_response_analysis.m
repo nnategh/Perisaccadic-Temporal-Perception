@@ -8,9 +8,9 @@ DATA_FILE = fullfile('Data', 'corr_sensitivity_response.mat');
 DATA_VAR  = 'corr_sens_resp';
 
 BIN_SIZE    = 10;             % (ms) delay bin size 
-TIME_START  = -252;           % (ms) first time bin
+TIME_START  = -251;           % (ms) first time bin
 TIME_STEP   =    7;           % (ms) step between time bins
-TIME_END    =   49;           % (ms) last time bin
+TIME_END    =   50;           % (ms) last time bin
 
 DELAY_BAND  = (40/BIN_SIZE +1):60/BIN_SIZE;     % delay-bin range averaged 
 
